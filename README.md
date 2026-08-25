@@ -164,87 +164,11 @@ The final results are presented through **SQL analysis, Power BI visualizations,
 
 ---
 
-
-## ▶️ How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-```
-
-### 2. Install Python Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### 3. Run the Python Analysis
-
-Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-Then run:
-
-```text
-notebooks/data_analysis.ipynb
-```
-
-### 4. Run SQL Queries
-
-Import the cleaned dataset into your preferred database:
-
-* PostgreSQL
-* MySQL
-* SQL Server
-
-Then execute the queries in:
-
-```text
-sql/analysis_queries.sql
-```
-
-### 5. Open the Power BI Dashboard
-
-Open:
-
-```text
-powerbi/dashboard.pbix
-```
-
-If necessary, update the database connection and refresh the data.
-
----
-
-## 🎯 Skills Demonstrated
-
-This project demonstrates practical experience with:
-
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Python & Pandas
-* SQL
-* Relational Databases
-* Data Visualization
-* Business Intelligence
-* Power BI
-* KPI Development
-* Business Insight Generation
-* Data Storytelling
-* Analytical Reporting
-* Presentation Development
-
----
-
 ## 👤 Author
 
 **Hossein Moosavizadegan**
 
-* GitHub: `https://github.com/your-username`
+* GitHub: `https://github.com/hossein-moosavizadegan`
 
 ---
 
