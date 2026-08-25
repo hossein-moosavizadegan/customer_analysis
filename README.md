@@ -164,6 +164,27 @@ The final results are presented through **SQL analysis, Power BI visualizations,
 
 ---
 
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Data Analysis**
+- Pandas
+- NumPy
+
+**Database**
+- PostgreSQL / MySQL / SQL Server
+
+**Visualization**
+- Power BI
+
+**Presentation**
+- Gamma
+
+---
+
 ## 👤 Author
 
 **Hossein Moosavizadegan**
